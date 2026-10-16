@@ -1,0 +1,30 @@
+src/components/ProfilePreview.tsx
+  s_968e9412811ade::t_f6c3df62fc9bf1 118,120
+src/App.tsx
+  s_968e9412811ade::t_3a8aa8ca73677b 1
+  s_968e9412811ade::t_288892ec7353fa 29
+src/components/Atmosphere.tsx
+  s_968e9412811ade::t_f5de6aac91c618 1-2
+  s_968e9412811ade::t_1c7b2c12070a39 3-16,22-26
+  s_968e9412811ade::t_fad5d616801a2b 17-21
+src/index.css
+  s_968e9412811ade::t_8ce89fd5c4861a 612-656
+  s_968e9412811ade::t_d75006496caade 128-130,137-151
+  s_968e9412811ade::t_a8bef12fdd88f5 47-127,131-136,152-225,230-231
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fedd2e8653260fa0163e6ca042753b48c60bba90",
+  "prompts": {},
+  "sessions": {
+    "s_968e9412811ade": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "f2e1bf28-bb29-46dc-8bff-74ba9efc4a42",
+        "model": "composer-2.5"
+      },
+      "human_author": "ahmadnurfadilah <ahmadnurfadilah22@gmail.com>"
+    }
+  }
+}

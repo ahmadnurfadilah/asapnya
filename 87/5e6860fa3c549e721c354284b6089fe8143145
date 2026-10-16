@@ -1,0 +1,48 @@
+.gitignore
+  h_c8a1da106d576c 1-24
+README.md
+  h_c8a1da106d576c 1-75
+eslint.config.js
+  h_c8a1da106d576c 1-22
+index.html
+  h_c8a1da106d576c 1-13
+package.json
+  h_c8a1da106d576c 1-30
+pnpm-lock.yaml
+  h_c8a1da106d576c 1-1722
+public/favicon.svg
+  h_c8a1da106d576c 1
+public/icons.svg
+  h_c8a1da106d576c 1-24
+src/App.css
+  h_c8a1da106d576c 1-184
+src/App.tsx
+  h_c8a1da106d576c 1-122
+src/assets/react.svg
+  h_c8a1da106d576c 1
+src/assets/vite.svg
+  h_c8a1da106d576c 1
+src/index.css
+  h_c8a1da106d576c 1-111
+src/main.tsx
+  h_c8a1da106d576c 1-10
+tsconfig.app.json
+  h_c8a1da106d576c 1-26
+tsconfig.json
+  h_c8a1da106d576c 1-7
+tsconfig.node.json
+  h_c8a1da106d576c 1-23
+vite.config.ts
+  h_c8a1da106d576c 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "875e6860fa3c549e721c354284b6089fe8143145",
+  "prompts": {},
+  "humans": {
+    "h_c8a1da106d576c": {
+      "author": "ahmadnurfadilah <ahmadnurfadilah22@gmail.com>"
+    }
+  }
+}

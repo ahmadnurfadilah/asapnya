@@ -1,3 +1,4 @@
+import { Atmosphere } from './components/Atmosphere'
 import { EditorPanel } from './components/EditorPanel'
 import { GITHUB_REPO_URL, INSPIRATION_TWEET_URL } from './lib/constants'
 
@@ -25,6 +26,7 @@ function ExternalLinkIcon() {
 function App() {
   return (
     <div className="app">
+      <Atmosphere />
       <header className="site-header">
         <span className="logo" aria-label="Asapnya">
           Asap<span>nya</span>

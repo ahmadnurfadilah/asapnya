@@ -115,8 +115,9 @@ export function ProfilePreview({
           }}
         />
       </div>
+      <div className="preview-ember-glow" aria-hidden="true" />
       <img
-        className="preview-overlay"
+        className="preview-overlay preview-overlay--live"
         src={OVERLAY_SRC}
         alt=""
         draggable={false}
